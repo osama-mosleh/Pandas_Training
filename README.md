@@ -58,3 +58,5 @@ The dataset contains sales records with the following columns:
 ---
 
 *This is a practice project focused on developing data analysis skills with pandas and visualization libraries.*
+*Important note: some charts aren't showing in the notebook so it's better to run it to explore them.*
+
